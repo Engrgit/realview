@@ -1,4 +1,4 @@
-# Precess Monitor
+# Process Monitor
  A simple app that monitors running processes on a linux server
 
 ## Installation
